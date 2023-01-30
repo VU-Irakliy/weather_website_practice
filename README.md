@@ -1,1 +1,3 @@
-# weather_website_practice
+# Weather website Project
+
+This was made just to practice my coding skills
